@@ -1,5 +1,5 @@
 #rParser01.R
-#This is an easy script for extracting local html file for lazy people
+#This is an easy demo of extracting local html file for lazy people
 
 #Set working directory to desktop
 setwd("C:/Users/twntok/Desktop")
